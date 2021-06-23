@@ -16,7 +16,7 @@ import logging
 import db
 #-----------------------end-------------------------#
 #------------- define a instance of class Updater for fetch data from telegram chat-----------#
-updater  = Updater(token='1199397772:AAEWp1trAiU_tyHy5-QkqFVgf-Bwu_cXSJo', use_context=True)
+updater  = Updater(token='<token of telegram bot>', use_context=True)
 #------------------end-------------------------#
 
 #----------- define dispatcher of updater -----------#
